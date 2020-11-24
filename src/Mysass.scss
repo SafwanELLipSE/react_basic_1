@@ -1,0 +1,9 @@
+$nameColor:red;
+$backColor:green;
+$givenPadding: 50px;
+
+.TextStyle4{
+    padding: $givenPadding;
+    color: $nameColor;
+    background-color: $backColor;
+}
